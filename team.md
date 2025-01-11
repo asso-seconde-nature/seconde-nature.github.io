@@ -6,8 +6,7 @@ description: "L'équipe"
 <h1 style="text-align: center;">Nouveau bureau, Nouveaux projets</h1>
 
 <div class="container">
-L'association fête ses 10 ans et voit arriver de nouveaux membres du bureau pour donner une nouvelle jeunesse à ce beau projet.
-Une assemblée générale a eu lieu le 09/12/2024 et a élu une nouvelle équipe porteur de projets pour péréniser et developper les activités de l'association.
+L'association vient d'être créer pour developper l'économie sociale et solidaire au sein du site de La Vauzelle.
 </div>
 <br>
 <div class="row">
