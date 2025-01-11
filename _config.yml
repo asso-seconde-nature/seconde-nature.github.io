@@ -1,0 +1,38 @@
+# global settings
+title: "Seconde Nature"
+description: "Objets de seconde main economique et solidaire"
+permalink: "/stories/:title"
+url: https://seconde-nature.github.io
+relative_permalinks: false
+
+# build settings
+exclude: ["script", "vendor", "bower.json", "Gemfile", "Gemfile.lock", "Rakefile", "readme.md", "package.json", "node_modules"]
+markdown: kramdown
+remote_theme: pages-themes/cayman@v0.2.0
+plugins:
+  - jekyll-coffeescript
+  - jekyll-remote-theme
+
+sass:
+  style: :compressed
+  # Where you keep your scss files
+  sass_dir: assets/css/
+  # Where sass should look for other scss
+  load_paths:
+    - node_modules/
+
+lsi: false
+safe: true
+incremental: false
+highlighter: rouge
+gist:
+  noscript: false
+kramdown:
+  math_engine: mathjax
+  syntax_highlighter: rouge
+
+github:
+  is_project_page: false
+
+#umap
+# https://umap.openstreetmap.fr/fr/map/anonymous-edit/1149485:-UlRzq9IKe3Gdh_SuESYHTlh1ay3EpKi_hWcfjjtdww

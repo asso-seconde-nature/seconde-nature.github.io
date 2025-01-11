@@ -1,0 +1,30 @@
+# Add horaires
+- name: Lundi
+  horaires: "Fermé"
+  status: danger
+- name: Mardi
+  horaires: "14H-18H"
+  status: success
+- name: Mercredi
+  horaires: "14H-18H"
+  status: success
+- name: Jeudi
+  horaires: "14H-18H"
+  status: success
+- name: Vendredi
+  horaires: "14H-18H"
+  status: success
+- name: Samedi
+  horaires: "14H-18H"
+  status: success 
+- name: Dimanche
+  horaires: "Fermé"
+  status: danger 
+
+
+
+
+  
+
+
+  
