@@ -1,7 +1,7 @@
 # global settings
 title: "Seconde Nature"
 description: "Objets de seconde main economique et solidaire"
-permalink: "/stories/:title"
+permalink: pretty
 url: https://seconde-nature.github.io
 relative_permalinks: false
 
@@ -12,6 +12,13 @@ remote_theme: pages-themes/cayman@v0.2.0
 plugins:
   - jekyll-coffeescript
   - jekyll-remote-theme
+  - jekyll-avatar
+  - jekyll-polyglot
+  - jekyll-redirect-from
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-octicons
+  - jekyll-youtube
 
 sass:
   style: :compressed
@@ -34,5 +41,9 @@ kramdown:
 github:
   is_project_page: false
 
+unexisting_page:
+  en: "The page you're looking for doesn't seem to be there!"
+  fr: "La page demandée n'est pas présente ici !"
+
 #umap
-# https://umap.openstreetmap.fr/fr/map/anonymous-edit/1149485:-UlRzq9IKe3Gdh_SuESYHTlh1ay3EpKi_hWcfjjtdww
+# https://umap.openstreetmap.fr/fr/map/anonymous-edit/1163837:-JPm85rxhOfjEOnwQc-4Z0e2qFEHDcoV3vKSS14Qe5Y

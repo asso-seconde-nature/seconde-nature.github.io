@@ -24,7 +24,7 @@ description: Economie sociale et solidaire, Insertion, seconde main.
   </tbody>
 </table>
 
-<h2 style="text-align: center;">Bureau</h2>
+<h2 style="text-align: center;">Le bureau</h2>
 
 <div class="row">
     {% for hi in site.data.infos %}
@@ -39,6 +39,18 @@ description: Economie sociale et solidaire, Insertion, seconde main.
     </div>
     {% endfor %}
 </div>
+
+<h2 style="text-align: center;">Les bénévoles</h2>
+
+<h4 style="text-align: center;" class="text-info">L'équipe de bénévoles est en cours de constitution, n'hésitez pas à nous contacter !</h4>
+
+
+<h2 style="text-align: center;">Venir à la recyclerie ( 8 rue du bouil bleu 17250 SAINT-PORCHAIRE )</h2>
+<div class="row">
+    <div class="col d-flex justify-content-center">
+              <iframe class="embed-responsive-item"  width="100%" height="600px" frameborder="0" allowfullscreen allow="geolocation" src="//umap.openstreetmap.fr/fr/map/seconde-nature_1163837?scaleControl=true&miniMap=true&scrollWheelZoom=true&zoomControl=true&editMode=disabled&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=none&captionBar=false&captionMenus=true#19/45.82805/-0.78452"></iframe>
+               </div>
+  </div>
 
 <h2 style="text-align: center;">Nous contacter</h2>
 
