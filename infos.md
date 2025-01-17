@@ -40,11 +40,6 @@ description: Economie sociale et solidaire, Insertion, seconde main.
     {% endfor %}
 </div>
 
-<h2 style="text-align: center;">Les bénévoles</h2>
-
-<h4 style="text-align: center;" class="text-info">L'équipe de bénévoles est en cours de constitution, n'hésitez pas à nous contacter !</h4>
-
-
 <h2 style="text-align: center;">Venir à la recyclerie ( 8 rue du bouil bleu 17250 SAINT-PORCHAIRE )</h2>
 <div class="row">
     <div class="col d-flex justify-content-center">
@@ -53,10 +48,8 @@ description: Economie sociale et solidaire, Insertion, seconde main.
   </div>
 
 <h2 style="text-align: center;">Nous contacter</h2>
-
   <div>
         <p class="text-center">
-          <a href="mailto:asso.seconde.nature@gmail.com?subject=[BENEVOLAT]" target="_blank" class="btn btn-primary">Je deviens bénévole</a>
-          <a href="mailto:asso.seconde.nature@gmail.com?subject=[DONS]" target="_blank" class="btn btn-primary">Je donne des objets</a>
+          <a href="mailto:asso.seconde.nature@gmail.com?subject=[CONTACT]" target="_blank" class="btn btn-primary">Contact</a>
         </p>
       </div>

@@ -1,0 +1,24 @@
+# Add publications concerning technologies and agricultures
+- name: "Collecter"
+  description: "Nous collectons des objets destinés à être jetés, sur les déchèteries de la CDC Coeur de Saintonge, ou via les dons de particuliers ou professionnels, sur rendez-vous."
+  link: "mailto:asso.seconde.nature@gmail.com?subject=[DONS]"
+  link_note: "Je prends RV pour donner des objets"                 
+- name: "Valoriser"
+  description: "Nous valorisons les objets ainsi collectés : nettoyage, réparation, customisation, détournements, démantèlement…tout est envisageable !"
+  link: "mailto:asso.seconde.nature@gmail.com?subject=[PARTENAIRE]"
+  link_note: "Je veux devenir partenaire"
+- name: "Donner une seconde vie"
+  description: "Nous vendons les objets valorisés à prix solidaires ou les louons, afin de leur offrir une 2ème vie"
+  link: "mailto:asso.seconde.nature@gmail.com?subject=[BENEVOLAT]"
+  link_note: "Je veux devenir benevole"
+- name: "Sensibiliser"
+  description: "Nous proposons des evenements et services pour sensibiliser auprès des établissements scolaires, collectivités, grand public et professionnel."
+  link: "mailto:asso.seconde.nature@gmail.com?subject=[EVENT]"
+  link_note: "Je propose une action"
+
+
+  
+  
+
+
+  

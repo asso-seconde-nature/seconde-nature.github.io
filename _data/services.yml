@@ -1,0 +1,44 @@
+# Add publications concerning technologies and agricultures
+- name: "Repair Café"
+  description: "Des bénévoles, des outils et un accompagnement pour réparer son petit électroménager, son vélo ou ses vétements"
+  image: /assets/img/repair.png
+  link: "mailto:asso.seconde.nature@gmail.com?subject=[REPAIR_CAFE]"
+  link_note: "Je veux participer"
+- name: "Sensibilisation"
+  description: "Partenariat scolaire, collectivités, grand public et evenementiel. Venez proposer vos actions !"
+  image: /assets/img/users.png
+  link: "mailto:asso.seconde.nature@gmail.com?subject=[SENSIBILISATION]"
+  link_note: "Je veux proposer une action"
+- name: "Location - Prêt"
+  description: "Plus besoin d’acheter, empruntez à la recyclerie !
+  Avec l'adhésion emprunteur / emprunteuse, adhérez à l'assocation pour un montant de 50€ et empruntez jusqu’à 4 fois par an ce dont vous avez besoin et en quantité.
+  Décorations, mobilier, vaisselles…tout est possible !"
+  image: /assets/img/key.png
+  link: "mailto:asso.seconde.nature@gmail.com?subject=[PRET]"
+  link_note: "Je veux emprunter des objets"
+- name: "Livraison"
+  description: "Pour les objets plus encombrants, notre équipe peut vous livrer à domicile, en pas de porte.
+  Ce service est payant, La livraison est facturée au prix unique de 30€, et proposée dans un rayon maximal de 10 km.
+  Le délai de livraison dépendra de la disponibilité de l’équipe et de nos camions."
+  image: /assets/img/truck.png
+  link: "mailto:asso.seconde.nature@gmail.com?subject=[LIVRAISON]"
+  link_note: "Je veux prendre un creneau"
+- name: "Scénographie d’espaces"
+  description: "Envie de décorer votre vitrine ou d’aménager un espace ?
+  Donnez-nous un thème, une couleur, une ambiance et nous nous chargerons de la scénographie, avec nos meubles et objets issus du réemploi !"
+  image: /assets/img/magic.png
+  link: "mailto:asso.seconde.nature@gmail.com?subject=[CONCEPTION_ESPACE]"
+  link_note: "Je veux agencer un espace"
+- name: "Personnalisation"
+  description: "Une partie de nos objets peuvent être transformés par nos partenaires.
+  Vous êtes un artisan et vous souhaitez proposer des objets personnalisés ou venir vous sourcer dans notre recyclerie ou même avoir un emplacement de travail / vente sur le site de La Vauzelle. Contactez nous !"
+  image: /assets/img/palette.png
+  link: "mailto:asso.seconde.nature@gmail.com?subject=[PERSONNALISATION]"
+  link_note: "Je veux personnaliser"
+
+
+  
+  
+
+
+  
