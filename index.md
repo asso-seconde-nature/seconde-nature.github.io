@@ -10,7 +10,7 @@ description: Economie sociale et solidaire, Insertion, seconde main.
 <div class="row">
     <div class="col d-flex justify-content-center">
             <div class="embed-responsive embed-responsive-16by9">
-              <iframe class="embed-responsive-item" width="800" height="450" src="/assets/img/france3.mov" frameborder="0" allowfullscreen=""></iframe>
+              <iframe class="embed-responsive-item" width="800" height="450" src="/assets/img/france3.mp4" frameborder="0" allowfullscreen=""></iframe>
             </div>
     </div>
 </div>
