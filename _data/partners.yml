@@ -1,0 +1,63 @@
+# Add publications concerning technologies and agricultures
+- name: "Commune de Saint-Porchaire"
+  description: "La commune de Saint-Porchaire aide notre recyclerie dans ses démarches locales administratives et de communication."
+  image: /assets/img/mairie.png
+  link: "https://www.st-porchaire.fr/"
+  link_note: "Site"
+- name: "CDC Coeur de Saintonge"
+  description: "La Communauté de communes aide notre recyclerie à se developper sur le territoire des 18 communes et 17775 habitants."
+  image: /assets/img/cdc.jpg
+  link: "https://www.coeurdesaintonge.fr/"
+  link_note: "Site"
+- name: "CP Saintonge Romane"
+  description: "La Communauté de pays aide notre recyclerie à se developper sur le territoire des 70 communes et 91509 habitants."
+  image: /assets/img/saintonge_romane.svg
+  link: "https://payssaintongeromane.fr/"
+  link_note: "Site"
+- name: "Région Nouvelle-Aquitaine"
+  description: "La Région Nouvelle-Aquitaine aide notre recyclerie dans ses projets de financement et de développement."
+  image: /assets/img/nouvelle-aquitaine.png
+  link: "https://www.nouvelle-aquitaine.fr/"
+  link_note: "Site"
+- name: "Cyclad"
+  description: "Cyclad aide notre recyclerie à collecter les objets dans les déchetteries de Plassay et Trizay."
+  image: /assets/img/cyclad.jpeg
+  link: "https://cyclad.org/"
+  link_note: "Site"
+- name: "Renaître"
+  description: "Le reseau Renaître fédère plus de 100 acteurs du réemploi solidaire, ressourceries et recycleries en Nouvelle Aquitaine"
+  image: /assets/img/renaitre.png
+  link: "https://www.reseau-renaitre.com"
+  link_note: "Site"
+- name: "Ademe"
+  description: "L'Ademe est l'agence de la transition écologique qui accélére le passage vers une société plus sobre et solidaire."
+  image: /assets/img/ademe.png
+  link: "https://www.ademe.fr/"
+  link_note: "Site"
+- name: "EcoMaison"
+  description: "EcoMaison organise le réemploi et le recyclage des objets et matériaux de la maison."
+  image: /assets/img/ecomaison.png
+  link: "https://ecomaison.com"
+  link_note: "Site"
+- name: "Ecologic"
+  description: "Ecologic organise le réemploi et le recyclage des univers de l’électroménager, de l’électronique, du numérique, de la climatisation, de la mobilité, du sport, de l’outillage et des loisirs"
+  image: /assets/img/ecologic.png
+  link: "https://www.ecologic-france.com/"
+  link_note: "Site"
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+  

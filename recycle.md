@@ -5,6 +5,16 @@ description: "Recyclerie"
 ---
 <h1 style="text-align: center;">On collecte les objets, on les valorise et on les revend à petits prix.</h1>
 
+## Vidéo
+
+<div>
+    <iframe 
+        src="https://www.youtube.com/embed/bKGDFj4bfSw" width="100%" height="800" frameborder="0" allowfullscreen="">
+    </iframe>
+</div>
+
+## Organisation des objets
+
 <img src="/assets/img/plan.png" alt="drawing" width="100%"/>
 
 ## Photos

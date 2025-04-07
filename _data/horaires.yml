@@ -1,38 +1,38 @@
 # Add horaires
 - name: Lundi
-  horaires: "Selon dispo. bénévoles"
+  horaires: "Fermé"
   status: danger
-  horaires_repair: "Selon dispo. bénévoles"
+  horaires_repair: "Fermé"
   status_repair: danger
 - name: Mardi
-  horaires: "Selon dispo. bénévoles"
+  horaires: "Fermé"
   status: danger
-  horaires_repair: "Selon dispo. bénévoles"
+  horaires_repair: "Fermé"
   status_repair: danger
 - name: Mercredi
-  horaires: "Selon dispo. bénévoles"
-  status: danger
+  horaires: "10H-19H"
+  status: success
   horaires_repair: "Selon dispo. bénévoles"
   status_repair: danger
 - name: Jeudi
-  horaires: "Selon dispo. bénévoles"
-  status: danger
+  horaires: "15H-19H"
+  status: success
   horaires_repair: "Selon dispo. bénévoles"
   status_repair: danger
 - name: Vendredi
-  horaires: "Selon dispo. bénévoles"
-  status: danger
+  horaires: "15H-19H"
+  status: success
   horaires_repair: "Selon dispo. bénévoles"
   status_repair: danger
 - name: Samedi
-  horaires: "09H-18H"
+  horaires: "10H-19H"
   status: success
   horaires_repair: "09H-11H30"
   status_repair: success
 - name: Dimanche
-  horaires: "14H-18H"
-  status: success
-  horaires_repair: "Selon dispo. bénévoles"
+  horaires: "Fermé"
+  status: danger
+  horaires_repair: "Fermé"
   status_repair: danger
 
 

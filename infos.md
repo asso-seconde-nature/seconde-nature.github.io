@@ -40,6 +40,26 @@ description: Economie sociale et solidaire, Insertion, seconde main.
     {% endfor %}
 </div>
 
+<h2 style="text-align: center;">Les documents de l'asso</h2>
+
+  <div class="row">
+      <div class="col-sm-2 mb-2 mb-sm-0">
+        <p class="text-center">
+          <a href="/assets/doc/statuts.pdf" target="_blank" class="btn btn-info">Statuts</a>
+        </p>
+      </div>
+       <div class="col-sm-2 mb-2 mb-sm-0">
+        <p class="text-center">
+          <a href="/assets/doc/reglement_interieur.pdf" target="_blank" class="btn btn-info">Réglement intérieur</a>
+        </p>
+      </div>
+      <div class="col-sm-2 mb-2 mb-sm-0">
+        <p class="text-center">
+          <a href="/assets/doc/charte_benevoles.pdf" target="_blank" class="btn btn-info">Charte des bénévoles</a>
+        </p>
+      </div>
+  </div>
+
 <h2 style="text-align: center;">Venir à la recyclerie ( 8 rue du bouil bleu 17250 SAINT-PORCHAIRE )</h2>
 <div class="row">
     <div class="col d-flex justify-content-center">
