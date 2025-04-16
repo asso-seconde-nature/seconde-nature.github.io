@@ -4,7 +4,7 @@ title: Seconde Nature
 description: Economie sociale et solidaire, Insertion, seconde main.
 ---
 <h1 style="text-align: center;">Notre Seconde Nature, c'est Réemployer, Réparer et Réutiliser !</h1>
-<h2 style="text-align: center;" class="text-danger">!! Ouverture prochainement !!</h2>
+<h2 style="text-align: center;" class="text-danger">!! Ouverture le Samedi 14/06 à 10H00 !!</h2>
 
 
 <div class="row">

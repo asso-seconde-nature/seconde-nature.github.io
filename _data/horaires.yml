@@ -12,22 +12,22 @@
 - name: Mercredi
   horaires: "10H-19H"
   status: success
-  horaires_repair: "Selon dispo. bénévoles"
+  horaires_repair: "Ouverture prochainement"
   status_repair: danger
 - name: Jeudi
   horaires: "15H-19H"
   status: success
-  horaires_repair: "Selon dispo. bénévoles"
+  horaires_repair: "Ouverture prochainement"
   status_repair: danger
 - name: Vendredi
   horaires: "15H-19H"
   status: success
-  horaires_repair: "Selon dispo. bénévoles"
+  horaires_repair: "Ouverture prochainement"
   status_repair: danger
 - name: Samedi
   horaires: "10H-19H"
   status: success
-  horaires_repair: "09H-11H30"
+  horaires_repair: "Ouverture prochainement"
   status_repair: success
 - name: Dimanche
   horaires: "Fermé"
