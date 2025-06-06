@@ -1,0 +1,35 @@
+# Add horaires
+- category: Cuisine
+  article: "Couverts"
+  unity: "poids"
+  value: 5 à 10 € / kg
+- category: Cuisine
+  article: "Casseroles & poêles"
+  unity: "poids"
+  value: 2 € / kg
+- category: Cuisine
+  article: "Accessoires de cuisine"
+  unity: "unité"
+  value: 1 à 2 € / unité
+- category: Cuisine
+  article: "Assiettes"
+  unity: "poids"
+  value: 1 à 3 € / kg
+- category: Cuisine
+  article: "Electroménager"
+  unity: "unité"
+  value: 3 à 15 € / unité
+- category: Vêtements
+  article: "Vêtements en bac"
+  unity: "poids"
+  value: 5 € / kg
+- category: Vêtements
+  article: "Vêtements sur cintre"
+  unity: "unité"
+  value: 1 à 10 €
+
+
+  
+
+
+  

@@ -1,12 +1,70 @@
 # Add publications concerning technologies and agricultures
-- name: Julien GAUTIER
+- name: Julien
   content: "Président" 
   image: /assets/img/julien.jpeg
-  infos: Entrepreneur
-- name: David JOULIN
+  keywords:
+      - 'Partenariat'
+      - 'RH'
+      - 'Commerce'
+  domains:
+      - ''
+- name: David
   content: "Trésorier" 
   image: /assets/img/david.jpeg
-  infos: Entrepreneur, impliqué l'innovation ouverte agricole depuis 20 ans (Ekylibre, OSFarm et La Ferme Digitale)
+  keywords:
+      - 'Finance'
+      - 'Achats'
+      - 'Travaux'
+      - 'Système information'
+      - 'IA'
+  domains:
+      - 'Materiaux'
+      - 'Jardin'
+- name: Thomas
+  content: "Bénévole"
+  image: /assets/img/thomas.jpeg
+  keywords:
+      - 'Coordination'
+      - 'Système information'
+      - 'Sécurité'
+      - 'Secourisme'
+  domains:
+      - ''
+- name: Cecile
+  content: "Bénévole"
+  image: /assets/img/cecile.jpeg
+  keywords:
+      - 'Coordination'
+      - 'Reseaux sociaux'
+  domains:
+      - 'Bois'
+- name: Anne Laure
+  content: "Bénévole"
+  image: /assets/img/person.png
+  keywords:
+      - 'Coordination'
+      - 'Reseaux sociaux'
+      - 'Vinted'
+      - 'Secourisme'
+  domains:
+      - 'Jouets'
+      - 'Vétements'
+- name: Emilie
+  content: "Bénévole"
+  image: /assets/img/person.png
+  keywords:
+      - 'Coordination'
+      - 'Partenariat'
+  domains:
+      - 'Bijoux'
+      - 'Vétements'
+- name: Romain
+  content: "Bénévole"
+  image: /assets/img/person.png
+  keywords:
+      - 'Travaux'
+  domains:
+      - 'Materiaux'
 
 
 

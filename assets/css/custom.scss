@@ -11,7 +11,9 @@ body {
 .page-header {
   width: 100%;
   min-height: 400px;
-  background-color: #F8C021;
+  background-color: #279911;
+  background-image: url('../img/fond.jpg');
+  background-blend-mode: lighten;
   background-size: cover; 
   -webkit-transition: background-image 0.6s ease-in-out 0s;
   -moz-transition: background-image 0.6s ease-in-out 0s;
