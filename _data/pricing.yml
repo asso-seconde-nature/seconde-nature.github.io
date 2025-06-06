@@ -19,6 +19,18 @@
   article: "Electroménager"
   unity: "unité"
   value: 3 à 15 € / unité
+- category: Electroménager
+  article: "tout article"
+  unity: "unité"
+  value: 5 à 20 % de la valeur neuve
+- category: Jardin
+  article: "tout article"
+  unity: "unité"
+  value: 5 à 20 % de la valeur neuve
+- category: Mobilier
+  article: "tout article"
+  unity: "unité"
+  value: 5 à 20 % de la valeur neuve
 - category: Vêtements
   article: "Vêtements en bac"
   unity: "poids"
@@ -26,7 +38,7 @@
 - category: Vêtements
   article: "Vêtements sur cintre"
   unity: "unité"
-  value: 1 à 10 €
+  value: 5 à 20 % de la valeur neuve
 
 
   

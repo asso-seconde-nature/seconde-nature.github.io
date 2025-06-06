@@ -1,0 +1,55 @@
+# Add horaires
+- category: Cuisine
+  article: "Couverts"
+  status: warning
+  comment: "Uniquement les couverts en métal, propres et secs, sans revêtement anti-adhésif."
+- category: Cuisine
+  article: "Casseroles & poêles"
+  status: warning
+  comment: "Uniquement les casseroles et poêles en métal, propres et sèches, sans revêtement anti-adhésif."
+- category: Cuisine
+  article: "Accessoires de cuisine"
+  status: success
+  comment: ""
+- category: Cuisine
+  article: "Assiettes"
+  status: warning
+  comment: "Uniquement les assiettes en céramique, verre ou porcelaine, propres et sèches, sans éclats ni fissures."
+- category: Cuisine
+  article: "Electroménager"
+  status: success
+  comment: ""
+- category: Electroménager
+  article: "tout article"
+  status: success
+  comment: ""
+- category: Jardin
+  article: "tout article"
+  status: success
+  comment: ""
+- category: Materiaux
+  article: "Carrelage, faïence, sanitaire"
+  status: warning
+  comment: "Uniquement les carreaux entiers, propres et secs, sans traces de colle ni de ciment."
+- category: Materiaux
+  article: "Fibrociment & Tuyaux en plomb"
+  status: danger
+  comment: ""
+- category: Mobilier
+  article: "tout article"
+  status: success
+  comment: ""
+- category: Vêtements
+  article: "Robe, jupe, pantalon, short, tee-shirt, pull, veste"
+  status: warning
+  comment: "Uniquement les vêtements propres et secs, sans trous ni taches."
+- category: Vêtements
+  article: "Sous vetements & chaussettes"
+  status: danger
+  comment: "Nous ne prenons pas les sous-vêtements et les chaussettes pour des raisons d'hygiène."
+
+
+  
+
+
+  

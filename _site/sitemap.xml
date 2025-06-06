@@ -7,6 +7,9 @@
 <loc>http://localhost:4000/benevole/</loc>
 </url>
 <url>
+<loc>http://localhost:4000/collected_items/</loc>
+</url>
+<url>
 <loc>http://localhost:4000/faq/</loc>
 </url>
 <url>

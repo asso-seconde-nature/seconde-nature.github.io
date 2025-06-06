@@ -13,7 +13,10 @@ Nos approvisionnements dépendent des collectes et des apports et par conséquen
 
 <h2 style="text-align: center;">Prix</h2>
 
-La politique de prix est décidé par le bureau et peut être revue tous les ans.
+La politique de prix est <span class="badge bg-warning">décidé par le bureau</span> et peut être revue tous les ans.
+Les prix sont calculés pour être compris entre <span class="badge bg-success">5 et 20% du prix du neuf</span> selon l'état de l'article.
+
+La liste de prix affiché s'entend<span class="badge bg-warning">hors promotions et evenements</span>.
 
 <table class="table table-striped table-bordered">
   <thead>

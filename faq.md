@@ -7,7 +7,7 @@ description: Economie sociale et solidaire, Insertion, seconde main.
   <div class="accordion-item">
     <h2 class="accordion-header">
       <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseZero" aria-expanded="false" aria-controls="collapseZero">
-        Qui gère cette association ?
+        Qui participe à cette association ?
       </button>
     </h2>
     <div id="collapseZero" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
@@ -79,6 +79,45 @@ description: Economie sociale et solidaire, Insertion, seconde main.
         <p class="text-center">
           <a href="mailto:asso.seconde.nature@gmail.com?subject=[CONTACT]" target="_blank" class="btn btn-primary">Contact</a>
         </p>
+      </div>
+    </div>
+  </div>
+  <div class="accordion-item">
+    <h2 class="accordion-header">
+      <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
+        Quelles sont les horaires d'ouvertures ?
+      </button>
+    </h2>
+    <div id="collapseFour" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
+      <div class="accordion-body">
+        La recyclerie est ouverte selon la disponibilité des bénévoles, les horaires sont ci-dessous
+        <p class="text-center">
+          <a href="{{ "/infos" | relative_url}}" class="btn btn-primary">Horaires</a>
+        </p>
+      </div>
+    </div>
+  </div>
+   <div class="accordion-item">
+    <h2 class="accordion-header">
+      <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFive" aria-expanded="false" aria-controls="collapseFive">
+        Peux t on apporter des objets ?
+      </button>
+    </h2>
+    <div id="collapseFive" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
+      <div class="accordion-body">
+        <span class="badge bg-success">Oui</span>, pour apporter des objets, il faut être <a href="{{ "/adherents" | relative_url}}">adhérent</a>, vérifier que vos objets correspondent à la <a href="{{ "/collected_items" | relative_url}}">liste des objets autorisés</a> puis prendre rendez vous en nous envoyant un email (asso.seconde.nature@gmail.com).
+      </div>
+    </div>
+  </div>
+  <div class="accordion-item">
+    <h2 class="accordion-header">
+      <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseSix" aria-expanded="false" aria-controls="collapseSix">
+        Faites vous des vide-maisons ? Venez vous à domicile pour collecter des objets ?
+      </button>
+    </h2>
+    <div id="collapseSix" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
+      <div class="accordion-body">
+        <span class="badge bg-danger">Non</span>, nous ne faisons pas de vide-maison pour le moment.
       </div>
     </div>
   </div>

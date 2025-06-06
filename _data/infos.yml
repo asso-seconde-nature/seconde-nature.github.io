@@ -7,7 +7,7 @@
       - 'RH'
       - 'Commerce'
   domains:
-      - ''
+      - 'Eco-organismes'
 - name: David
   content: "Trésorier" 
   image: /assets/img/david.jpeg
