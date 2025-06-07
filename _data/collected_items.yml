@@ -1,4 +1,28 @@
 # Add horaires
+- category: Ameublement
+  article: "Assises/Sièges"
+  status: success
+  comment: "Canapé, fauteuil, chaise, tabouret, banc, pouf, chaise haute, chaise de bureau."
+- category: Ameublement
+  article: "Couchages"
+  status: success
+  comment: "Lit, sommier, matelas, tête de lit, lit superposé, lit escamotable."
+- category: Ameublement
+  article: "Tables et plans de travail"
+  status: success
+  comment: "Table, bureau, table de chevet, table basse, plan de travail, meuble TV."
+- category: Ameublement
+  article: "Rangements"
+  status: success
+  comment: "Armoire, commode, étagère, bibliothèque, meuble de rangement, meuble à chaussures."
+- category: Ameublement
+  article: "Décoration textile"
+  status: success
+  comment: "Tapis, paillasson, stores, rideaux, voilages, accessoires (tringle), cadre décoratif mural"
+- category: Bricolage
+  article: "tout article"
+  status: success
+  comment: "Outillage à main(marteau, tournevis, pioche...), Equipement de protection (casque, gants...), Gros équipements de bricolage(escabeau, étau...)"
 - category: Cuisine
   article: "Couverts"
   status: warning
@@ -19,6 +43,10 @@
   article: "Electroménager"
   status: success
   comment: ""
+- category: Equipements éléctroniques et éléctriques
+  article: "tout article"
+  status: success
+  comment: "Écrans, moniteurs et équipements comprenant des écrans d'une surface supérieure à 100 cm², Petits équipements informatiques et de télécommunications"
 - category: Electroménager
   article: "tout article"
   status: success
@@ -26,7 +54,23 @@
 - category: Jardin
   article: "tout article"
   status: success
-  comment: ""
+  comment: "Pots de fleurs, Bâche, Outillage à main, Petits équipements (tuyau arrosage, arrosoir, seau... ), Gros équipements (Récupérateur eau de pluie, Barbecue non thermique...)"
+- category: Jardin thermique
+  article: "tout article"
+  status: success
+  comment: "Tondeuse thermique tractée, Accessoires de tondeuses : consommables (chaîne de tronçonneuse, panier de tondeuse… ), Débroussailleuse, rotofil, coupe-bordure, Motoculteur, Tronçonneuse, Pompe..."
+- category: Jouets
+  article: "Jeux de société et puzzles"
+  status: success
+  comment: "Jeux de société, puzzles, maquettes, jouets de construction"
+- category: Jouets
+  article: "Jeux de plein air"
+  status: success
+  comment: "quilles, jeux, plages, billes, cerfs-volants, trampoline, toboggan, petite maison"
+- category: Jouets
+  article: "jeux d'intérieur"
+  status: success
+  comment: "poupées, petites peluches < 60 cm, jeux de construction, figurines, voiturettes, petits jeux d'éveil, loisirs créatifs et déguisements"
 - category: Materiaux
   article: "Carrelage, faïence, sanitaire"
   status: warning
@@ -35,10 +79,22 @@
   article: "Fibrociment & Tuyaux en plomb"
   status: danger
   comment: ""
-- category: Mobilier
-  article: "tout article"
+- category: Sports & Loisirs
+  article: "Cycles et mobilités"
   status: success
-  comment: ""
+  comment: "Vélo, trottinette, skate, rollers (pneus et pièces détachées sont inclus) Protection et accessoires du vélo et du cycliste : casque, genouillères, coudières, pompe…"
+- category: Sports & Loisirs
+  article: "Sports et loisirs nautiques"
+  status: success
+  comment: "Plongée, snorkeling, natation (palmes, tuba, masque et lunette de piscine, combinaison...) Pêche (Canne, fil de pêche, hameçon...) Planche de surf, bodyboard, paddle, kayak, ski nautique, planche à voile…"
+- category: Sports & Loisirs
+  article: "Loisirs extérieurs"
+  status: success
+  comment: "Matériel de camping, arcs et flèches, trampoline, boules de pétanque, piolets d'escalade..."
+- category: Sports & Loisirs
+  article: "raquette & ballon"
+  status: success
+  comment: "Basketball, football, handball, rugby, Raquette, balle, ballon, table de ping-pong..."
 - category: Vêtements
   article: "Robe, jupe, pantalon, short, tee-shirt, pull, veste"
   status: warning
